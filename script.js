@@ -1,6 +1,7 @@
 /* globals Docute */
 
 new Docute({
+    layout: 'left',
     target: '#docute',
     sourcePath: './docs/',
     nav: [{
