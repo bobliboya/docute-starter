@@ -17,8 +17,8 @@ new Docute({
         /*第一组*/
         title: '序言',
         links: [{
-                title: 'Introduction',
-                link: '/introduction'
+                title: '终身学习者一定会喜欢这部万物大历史',
+                link: '/Gates'
             },
             {
                 title: 'Installation',
