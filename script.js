@@ -5,15 +5,17 @@ new Docute({
     sourcePath: './docs/',
     nav: [{
             title: 'Home',
-            link: '/'
+            link: '/README'
         },
         {
             title: 'About',
             link: '/about'
         }
     ],
+    /* 导航栏 */
     sidebar: [{
-        title: 'Guide',
+        /*第一组*/
+        title: '序言',
         links: [{
                 title: 'Introduction',
                 link: '/introduction'
@@ -24,7 +26,8 @@ new Docute({
             }
 
         ]
+
+
+
     }],
-
-
 })
