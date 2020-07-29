@@ -19,12 +19,28 @@ new Docute({
         title: '序言',
         links: [{
                 title: '终身学习者一定会喜欢这部万物大历史',
-                link: '/Gates'
+                link: '/xuyan/Gates'
             },
             {
                 title: '中文版序',
-                link: '/installation'
-            }
+                link: '/xuyan/installation'
+            },
+            {
+                title: '前言',
+                link: '/xuyan/qianyan'
+            },
+            {
+                title: 'Preface',
+                link: '/xuyan/preface'
+            },
+            {
+                title: '绪论',
+                link: '/xuyan/xulun'
+            },
+            {
+                title: 'Introduction',
+                link: '/xuyan/introduction'
+            },
 
         ]
 
