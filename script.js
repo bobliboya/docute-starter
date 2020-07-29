@@ -22,7 +22,7 @@ new Docute({
                 link: '/Gates'
             },
             {
-                title: 'Installation',
+                title: '中文版序',
                 link: '/installation'
             }
 
