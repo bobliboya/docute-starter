@@ -9,4 +9,4 @@ npm i
 npm start
 ```
 
-This is README.
+This is README.<img src="https://latex.codecogs.com/gif.latex?{{&space;-&space;b&space;\pm&space;\sqrt&space;{{b^2}&space;-&space;4ac}&space;}&space;\over&space;{2a}}" title="{{ - b \pm \sqrt {{b^2} - 4ac} } \over {2a}}" />
