@@ -384,18 +384,18 @@ header.sticky-header {
 .banner-text .top {
     font-weight: 400;
     margin-bottom: 1px;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .banner-text .slogan {
-    font-weight: 600;
+    font-weight: 400;
     margin-bottom: 1px;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 .banner-text .slogan span {
     display: block;
-    font-weight: 300;
+    font-weight: 250;
     padding-top: 0px;
     font-style: italic;
     font-size: 20px;
@@ -414,6 +414,8 @@ header.sticky-header {
 .banner-text .btn.btn-green {
     color: rgb(210, 255, 0);
     margin-left: 30px;
+    font-size: 20px;
+    font-weight: 400;
 }
 
 .banner-text .btn.btn-green:hover {
