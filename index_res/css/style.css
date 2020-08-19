@@ -269,6 +269,10 @@ a:active {
     background-color: #fff;
 }
 
+.btn-green {
+    background-color: rgb(34, 172, 56);
+}
+
 .tlinks {
     text-indent: -9999px;
     height: 0;
@@ -400,18 +404,19 @@ header.sticky-header {
 
 .banner-text p {
     margin-bottom: 0;
-    color: #fff;
-    font-size: 23px;
+    color: rgb(255, 255, 0);
+    font-size: 20px;
     text-align: justify;
     text-justify: inter-ideograph;
+    margin-bottom: 15px;
 }
 
-.banner-text .btn.btn-border {
-    color: #fff;
+.banner-text .btn.btn-green {
+    color: rgb(210, 255, 0);
     margin-left: 30px;
 }
 
-.banner-text .btn.btn-border:hover {
+.banner-text .btn.btn-green:hover {
     color: #303030;
 }
 
