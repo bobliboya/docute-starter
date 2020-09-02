@@ -1,31 +1,22 @@
-# Introduction of Microeconomics
-
-## What is Economy?
-
-- Study Financial Problems
-- Relationship between people, money and objects
-- Buying + Selling
-- Government's laws and policies
+# Welcome to AP Microeconomics
 
 
 
-## Scarcity *n.*
+## About the Course
 
-We do not have enough meet to our needs.
-
-Limited amount.
+Study the principles of economics that apply to the behavior of individuals within an economic system. You’ll use graphs, charts, and data to analyze, describe, and explain economic concepts.
 
 
 
-## Definition of Economy
+## Skills You'll Learn
 
-**How does the society manage scarce resources**
+- Define economic principles and models
+- Explain given economic outcomes
+- Determine outcomes of specific economic situations
+- Model economic situations using graphs or visual representations
 
 
 
-## Microeconomics & Macroeconomics
+## College Course Equivalent
 
-In Microeconomics, we learn about **individual components of big economy**.
-
-Ex: Producers, Consumers, Households, Firms
-
+A one-semester, introductory college course in microeconomics.
