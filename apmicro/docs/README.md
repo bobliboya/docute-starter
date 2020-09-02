@@ -20,3 +20,7 @@ Study the principles of economics that apply to the behavior of individuals with
 ## College Course Equivalent
 
 A one-semester, introductory college course in microeconomics.
+
+
+
+*Information of this page is from [College Board](https://apstudents.collegeboard.org/courses/ap-microeconomics).*

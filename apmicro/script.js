@@ -20,27 +20,27 @@ new Docute({
         title: '序言',
         links: [{
                 title: 'Introduction',
-                link: '/xuyan/intro'
+                link: '/start/intro'
             },
             {
-                title: '10 Basic',
-                link: '/xuyan/10prin'
+                title: '10 Basic Principles of Economy',
+                link: '/start/10prin'
             },
             {
                 title: '前言',
-                link: '/xuyan/qianyan'
+                link: '/start/qianyan'
             },
             {
                 title: 'Preface',
-                link: '/xuyan/preface'
+                link: '/start/preface'
             },
             {
                 title: '绪论',
-                link: '/xuyan/xulun'
+                link: '/start/xulun'
             },
             {
                 title: 'Introduction',
-                link: '/xuyan/introduction'
+                link: '/start/introduction'
             },
 
         ]
