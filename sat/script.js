@@ -16,26 +16,26 @@ new Docute({
     /* 导航栏 */
     sidebar: [{
         /*第一组*/
-        title: '序言',
+        title: '文法',
         links: [{
-                title: '终身学习者一定会喜欢这部万物大历史',
-                link: '/xuyan/Gates'
+                title: 'SAT文法简介',
+                link: '/grammar/aboutg'
             },
             {
-                title: '中文版序',
-                link: '/xuyan/installation'
+                title: '标点符号',
+                link: '/grammar/biaodian'
             },
             {
-                title: '前言',
-                link: '/xuyan/qianyan'
+                title: '形容词作定语时的位置分析',
+                link: '/grammar/adjp'
             },
             {
-                title: 'Preface',
-                link: '/xuyan/preface'
+                title: '悬垂结构',
+                link: '/grammar/xuanchui'
             },
             {
-                title: '绪论',
-                link: '/xuyan/xulun'
+                title: '平行结构',
+                link: '/grammar/parr'
             },
             {
                 title: 'Introduction',
