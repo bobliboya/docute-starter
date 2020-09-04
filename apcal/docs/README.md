@@ -2,6 +2,8 @@
 
 
 
+<img src="https://s1.ax1x.com/2020/09/04/wklCoq.jpg" alt="wklCoq.jpg" border="0"  width=40%/>
+
 ## About the Course
 
 Explore the concepts, methods, and applications of differential and integral calculus, including topics such as parametric, polar, and vector functions, and series. You’ll perform experiments and investigations and solve problems by applying your knowledge and skills.
