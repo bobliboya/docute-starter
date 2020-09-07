@@ -37,3 +37,56 @@
 &emsp;&emsp;结构上的平行指的是相同的语法结构，它要求有同等的语法形式来表达，通过连接词连接平行的部分，可以使句子前后保持平衡;和协调，从而**增加语言的连贯性**。在使用这些连接词时要注意它们所连接的应该是名词和名词，副词和副词，分词和分词，不定式和不定式，动词和动词，句子和句子等，而不能将其中一个概念用分词结构表达，而另一个 概念用不定式或从句来表达。
 
 &emsp;&emsp;简言之，**结构上的一致性即语法结构的一致性， 包括在词性、时态、语法成分都要做到整齐对称**。
+
+### Step 1: Identify Parallel Markers(识别平行标志词)
+
+&emsp;&emsp;通常是当我们看到了句中出现的标志词Parallel Markers (words that link or contrast items and that force those items to be parallel)的时候，就要注意是否需要使用平行结构了。SAT文法常考连接词主要如下:
+
+- 并列句标志词：如and, but, as well as, or, neither.. nor, either... or, not only... but also, not... but等。而最常见也是SAT文法最常考查的标志词是:and和or。而且and的考查是重中之重!
+- 比较句连接词：常常使用的比较连词，如than, different from, like, unlike, as.... as.... , so... as..., compared with等也是比较高频的标志词。
+- 其他句型连接词，如from... to...,  replace... with...为比较低调隐晦的平行标志词。
+
+### Step 2: Identify Parallel Items(识别平行部分)
+
+&emsp;&emsp;在我们快速识别出标志词后，我们还要能够顺利鉴别平行的部分。请记牢以下结构，在平行句中正确找到平行部分x, y, z。
+
+<Note type="tip">
+
+&emsp;&emsp;有一些平行items可以**共用部分动词**，如: was doing can do, to do。在平行句中，was, can, to可以在平行的第二个item以及之后的items中**省略掉**。
+
+如:
+The devision was opening office, hiring staff, and investing in equipment.<br/>
+The railroad can either lose more money or solve its problems.<br/>
+They wanted to increase awareness, spark interest, and motivate purchases.<br/>
+
+</Note>
+
+
+
+
+
+## Logically Parallel 逻辑上保持一致
+
+&emsp;&emsp;逻辑上的一致性较之结构上的一致性稍**有难度**， 因为平行的部分已经不仅仅停留于形式的层面，更侧重于句意的理解。在深层次的**语意**方面也要做到**平行一致**。
+
+
+
+## Stylistically Parallel 语体上保持一致
+
+### 1. Style
+
+Style is the way the author uses words, phrases, and sentences.<br/>
+换句话说，style 即为作者的用词和句式的个人风格特色。不同选词会造就截然不同的语体风格。
+
+&emsp;&emsp; SAT文法最常考查的两种style有正式( Formal)和非正式(Informal)之分。两种语体风格在用词选取上通常有如下之分:
+
+|  **Formal**   |  **Informal**   |
+| :-----------: | :-------------: |
+|    serious    |     playful     |
+| business-like | slang; dialogue |
+|   academic    |    personal     |
+
+### 2. Tone
+
+Tone is simply the author's attitude toward the subject.<br/>
+通过鉴别作者的用词还可以判断其对讨论主题持有positive or negative的态度。
