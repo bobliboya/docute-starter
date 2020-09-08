@@ -43,34 +43,6 @@ new Docute({
                 link: '/start/introduction'
             },
 
-        ],
-
-        title: 'Start',
-        links: [{
-                title: 'Precalculus复习',
-                link: '/start/preview'
-            },
-            {
-                title: '10 Basic Principles of Economy',
-                link: '/start/10prin'
-            },
-            {
-                title: '前言',
-                link: '/start/qianyan'
-            },
-            {
-                title: 'Preface',
-                link: '/start/preface'
-            },
-            {
-                title: '绪论',
-                link: '/start/xulun'
-            },
-            {
-                title: 'Introduction',
-                link: '/start/introduction'
-            },
-
         ]
 
 
