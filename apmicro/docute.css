@@ -6,7 +6,7 @@ body {
     background: var(--page-background);
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-    font: 16px/1.7 Arial, Roboto, sans-serif
+    font: 16px/1.7 -apple-system, Arial, Roboto, sans-serif
 }
 
 * {
@@ -661,7 +661,7 @@ a[data-v-794d5154] {
 .page-content h4,
 .page-content h5,
 .page-content h6 {
-    font-weight: 300;
+    font-weight: 500;
     line-height: 1.2
 }
 

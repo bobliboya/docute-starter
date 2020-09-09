@@ -14,38 +14,47 @@ new Docute({
         }
     ],
     /* 导航栏 */
-    sidebar: [{
-        /*第一组*/
+    sidebar: [
+        // A sidebar item, with child links
+        {
+            title: 'Start / 介绍',
+            children: [{
+                    title: 'Precalculus复习',
+                    link: '/start/preview'
+                },
+                {
+                    title: '微积分的已有应用',
+                    link: '/start/apply'
+                },
+                {
+                    title: '微分简介',
+                    link: '/start/introd'
+                },
+                {
+                    title: '积分简介',
+                    link: '/start/introi'
+                },
+                {
+                    title: '微分与积分的综合对比',
+                    link: '/start/compare'
+                },
+                {
+                    title: 'Introduction',
+                    link: '/start/introduction'
+                },
 
-        title: 'Start',
-        links: [{
-                title: 'Precalculus复习',
-                link: '/start/preview'
-            },
-            {
-                title: '微积分的已有应用',
-                link: '/start/apply'
-            },
-            {
-                title: '微分简介',
-                link: '/start/introd'
-            },
-            {
-                title: '积分简介',
-                link: '/start/introi'
-            },
-            {
-                title: '微分与积分的综合对比',
-                link: '/start/compare'
-            },
-            {
+            ]
+        },
+        // An external link
+        {
+            title: 'Limit / 极限',
+            children: [{
                 title: 'Introduction',
                 link: '/start/introduction'
-            },
+            }, ]
+        },
+        /*Sep*/
 
-        ]
 
-
-
-    }],
+    ]
 })

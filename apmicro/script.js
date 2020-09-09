@@ -17,14 +17,14 @@ new Docute({
     sidebar: [{
         /*第一组*/
 
-        title: 'Introductions',
+        title: 'Ch1 - Ten Principles of Economics',
         links: [{
                 title: 'Introduction',
-                link: '/start/intro'
+                link: '/intro/intro'
             },
             {
                 title: '10 Principles of Economy',
-                link: '/start/10prin'
+                link: '/intro/10prin'
             },
 
 
