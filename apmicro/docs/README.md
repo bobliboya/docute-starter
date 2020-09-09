@@ -23,4 +23,16 @@ A one-semester, introductory college course in microeconomics.
 
 
 
+## About the Exam
+
+**Section 1**
+
+70 minutes, 60 MCQ
+
+**Section 2**
+
+60 minutes, 3 FRQ
+
+
+
 *Information of this page is from [College Board](https://apstudents.collegeboard.org/courses/ap-microeconomics).*
