@@ -50,6 +50,27 @@
 
 &emsp;&emsp;在我们快速识别出标志词后，我们还要能够顺利鉴别平行的部分。请记牢以下结构，在平行句中正确找到平行部分x, y, z。
 
+|         Markers         |       Structures        |                    Examples                     |
+| :---------------------: | :---------------------: | :---------------------------------------------: |
+|           and           | x and y<br/>x, y, and z | apples and pears<br/>apples, pears, and bananas |
+|      both...and...      |      both x and y       |              both apple and pears               |
+|           or            |         x or y          |                 apples or pears                 |
+|     either...or...      |      either x or y      |             either apples or pears              |
+|      neither...nor      |     neither x nor y     |            neither apples nor pears             |
+|       not... but        |       not x but y       |              not apples but pears               |
+| not only... but also... |  not only x but also y  |         not only apples but also pears          |
+|      from... to...      |       from x to y       |              from apples to pears               |
+|   replace... with...    |    replace x with y     |            replace apples with pears            |
+|    different from...    | different from x, y...  |          different from apples, pears           |
+|          like           |      like x, y...       |               like apples, pears                |
+|         unlike          |     unlike x, y...      |              unlike apples, pears               |
+|      compared with      |  compared with x, y...  |           compared with apples, pears           |
+|       as... as...       |      x as ... as y      |             apples as ... as pears              |
+|          than           |      x ... than y       |              apples ... than pears              |
+|     not to mention      |   x, not to mention y   |          apples, not to mention pears           |
+
+
+
 <Note type="tip">
 
 &emsp;&emsp;有一些平行items可以**共用部分动词**，如: was doing can do, to do。在平行句中，was, can, to可以在平行的第二个item以及之后的items中**省略掉**。

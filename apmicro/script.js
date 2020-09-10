@@ -26,6 +26,10 @@ new Docute({
                 title: '10 Principles of Economy',
                 link: '/intro/10prin'
             },
+            {
+                title: 'Concepts & Definitions',
+                link: '/intro/def1'
+            },
 
 
         ]
