@@ -49,8 +49,8 @@ new Docute({
         {
             title: 'Limit / 极限',
             children: [{
-                title: 'Introduction',
-                link: '/start/introduction'
+                title: '数列的极限',
+                link: '/limit/los'
             }, ]
         },
         /*Sep*/

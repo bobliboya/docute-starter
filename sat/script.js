@@ -38,8 +38,25 @@ new Docute({
                 link: '/grammar/parr'
             },
             {
-                title: 'Introduction',
-                link: '/xuyan/introduction'
+                title: '代词',
+                link: '/grammar/daici'
+            },
+            {
+                title: '时态',
+                link: '/grammar/tense'
+            },
+
+            {
+                title: '词汇',
+                link: '/grammar/word'
+            },
+            {
+                title: '主谓一致',
+                link: '/grammar/zhuwei'
+            },
+            {
+                title: '倒装句',
+                link: '/grammar/daoz'
             },
 
         ]
