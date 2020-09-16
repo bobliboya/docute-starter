@@ -1,4 +1,4 @@
-# 数列的极限<br/>Limit of a Sequence
+# 数列的极限
 
 ## 计算根号2的值
 

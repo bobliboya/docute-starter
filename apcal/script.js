@@ -13,6 +13,7 @@ new Docute({
             link: '/about'
         }
     ],
+
     /* 导航栏 */
     sidebar: [
         // A sidebar item, with child links

@@ -13,28 +13,46 @@ new Docute({
             link: '/about'
         }
     ],
+    detectSystemDarkTheme: true,
+    darkThemeToggler: true,
     /* 导航栏 */
     sidebar: [{
-        /*第一组*/
+            /*第一组*/
 
-        title: 'Ch1 - Ten Principles of Economics',
-        links: [{
-                title: 'Introduction',
-                link: '/intro/intro'
-            },
-            {
-                title: '10 Principles of Economy',
-                link: '/intro/10prin'
-            },
-            {
-                title: 'Concepts & Definitions',
-                link: '/intro/def1'
-            },
-
-
-        ]
+            title: '1 - Ten Principles of Economics',
+            children: [{
+                    title: 'Introduction',
+                    link: '/intro/intro'
+                },
+                {
+                    title: '10 Principles of Economy',
+                    link: '/intro/10prin'
+                },
+                {
+                    title: 'Concepts & Definitions',
+                    link: '/intro/def1'
+                },
 
 
+            ]
 
-    }],
+
+
+        }, /*开始*/
+        {
+
+            title: '2 - Thinking Like an Economist',
+            children: [{
+                    title: 'Economists',
+                    link: '/chap2/economist'
+                },
+
+
+
+            ]
+
+
+
+        } /*结束*/
+    ],
 })
