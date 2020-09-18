@@ -22,3 +22,21 @@ Definition: A prediction about the future based on past observation.
 
 ## The Economist as Policy Adviser
 
+
+
+
+
+## Rational Behavior
+
+- Benefit > Cost
+- Self Interest
+- Honesty
+- Complete Information
+
+
+
+## Factors of Production
+
+- Labor
+- Land
+- Capital
