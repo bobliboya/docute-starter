@@ -51,8 +51,11 @@ new Docute({
             title: 'Limit / 极限',
             children: [{
                 title: '[基础]映射与函数',
-                link: '/limit/yinshe'
-            }, ]
+                link: '/limit/function'
+            }, {
+                title: '数列的极限',
+                link: '/limit/los'
+            }]
         },
         /*Sep*/
 
