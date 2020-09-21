@@ -55,6 +55,9 @@ new Docute({
             }, {
                 title: '数列的极限',
                 link: '/limit/los'
+            }, {
+                title: '函数的极限',
+                link: '/limit/lof'
             }]
         },
         /*Sep*/
