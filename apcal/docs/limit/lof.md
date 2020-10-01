@@ -30,4 +30,12 @@
 
 ##### 	B. 取值为渐近线
 
-&emsp;&emsp;在拿到有理函数求极限的时候，一定要先确定取值是否能够使式子具有意义。例如函数<img src="https://latex.codecogs.com/gif.latex?\mathop&space;{\lim&space;}\limits_{x&space;\to&space;1}&space;{{{x^2}&space;-&space;1}&space;\over&space;{x&space;-&space;1}}" title="\mathop {\lim }\limits_{x \to 1} {{{x^2} - 1} \over {x - 1}}" />，不能直接将x=1带入计算，而是要先将原式因式分解才能够带入计算。其次要注意取值是要从哪一个方向趋近，例如函数<img src="https://latex.codecogs.com/gif.latex?\mathop&space;{\lim&space;}\limits_{x&space;\to&space;0}&space;{1&space;\over&space;x}" title="\mathop {\lim }\limits_{x \to 0} {1 \over x}" />，从正方向和负方向趋近的极限值分别为<img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />和<img src="https://latex.codecogs.com/gif.latex?-&space;\infty" title="- \infty" />，对于这样的题目，题目上一般会有说明具体的趋近方向，例如<img src="https://latex.codecogs.com/gif.latex?\mathop&space;{\lim&space;}\limits_{x&space;\to&space;{0^&space;&plus;&space;}}&space;{1&space;\over&space;x}" title="\mathop {\lim }\limits_{x \to {0^ + }} {1 \over x}" />。对于没有说明并且要求"有极限值则求值，无极限值则说理"的题目一般都可以说明“不存在”。
+&emsp;&emsp;在拿到有理函数求极限的时候，一定要先确定取值是否能够使式子具有意义。例如函数<img src="https://latex.codecogs.com/gif.latex?\mathop&space;{\lim&space;}\limits_{x&space;\to&space;1}&space;{{{x^2}&space;-&space;1}&space;\over&space;{x&space;-&space;1}}" title="\mathop {\lim }\limits_{x \to 1} {{{x^2} - 1} \over {x - 1}}" />，不能直接将x=1带入计算，而是要先将原式因式分解才能够带入计算。其次要注意取值是要从哪一个方向趋近，例如函数<img src="https://latex.codecogs.com/gif.latex?\mathop&space;{\lim&space;}\limits_{x&space;\to&space;0}&space;{1&space;\over&space;x}" title="\mathop {\lim }\limits_{x \to 0} {1 \over x}" />，从正方向和负方向趋近的极限值分别为<img src="https://latex.codecogs.com/gif.latex?+\infty" title="\infty" />和<img src="https://latex.codecogs.com/gif.latex?-&space;\infty" title="- \infty" />，对于这样的题目，题目上一般会有说明具体的趋近方向，例如<img src="https://latex.codecogs.com/gif.latex?\mathop&space;{\lim&space;}\limits_{x&space;\to&space;{0^&space;&plus;&space;}}&space;{1&space;\over&space;x}" title="\mathop {\lim }\limits_{x \to {0^ + }} {1 \over x}" />。对于没有说明并且要求"有极限值则求值，无极限值则说理"的题目一般都可以直接写<img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />（表示正无穷或负无穷）。
+
+
+
+## 自变量趋于无穷时函数的极限
+
+### 基本形式
+
+<center><img src="https://latex.codecogs.com/gif.latex?\mathop&space;{\lim&space;}\limits_{x&space;\to&space;\infty&space;}&space;f(x)&space;=&space;A" title="\mathop {\lim }\limits_{x \to \infty } f(x) = A" /></center>
