@@ -43,16 +43,33 @@ new Docute({
 
             title: '2 - Thinking Like an Economist',
             children: [{
-                    title: 'Economists',
-                    link: '/chap2/economist'
-                },
+                title: 'Economists',
+                link: '/chap2/economist'
+            }, ]
+        }, /*结束*/
+        {
 
+            title: '3 - Interpendence and the Gains from Trade',
+            children: [{
+                title: 'Economists',
+                link: '/chap2/economist'
+            }, ]
+        }, /*结束*/
+        {
 
+            title: '4 - The Market Forces Supply or Demand',
+            children: [{
+                title: 'Economists',
+                link: '/chap2/economist'
+            }, ]
+        }, /*结束*/
+        {
 
-            ]
-
-
-
-        } /*结束*/
+            title: '5 - Elasticity and Its Application',
+            children: [{
+                title: 'Economists',
+                link: '/chap2/economist'
+            }, ]
+        }, /*结束*/
     ],
 })

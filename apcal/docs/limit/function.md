@@ -62,7 +62,7 @@
 
 <center><img src="https://latex.codecogs.com/svg.latex?f(x&space;&plus;&space;l)&space;=&space;f(x)" title="f(x + l) = f(x)" /></center>
 
-恒成立，那么称f(x)为周期函数，<img src="https://latex.codecogs.com/svg.latex?l" title="l" />称为f(x)的周期。
+恒成立，那么称f(x)为周期函数，<img src="https://latex.codecogs.com/svg.latex?l" title="l" />称为f(x)的周期<img src="https://latex.codecogs.com/svg.latex?\inline&space;f(x)=x^2&plus;2x&plus;1" title="f(x)=x^2+2x+1" />。
 
 
 
