@@ -15,6 +15,7 @@ new Docute({
     ],
     detectSystemDarkTheme: true,
     darkThemeToggler: true,
+    highlight: ['java'],
     /* 导航栏 */
     sidebar: [{
             /*第一组*/
