@@ -13,63 +13,60 @@ new Docute({
             link: '/about'
         }
     ],
-    detectSystemDarkTheme: true,
+    detectSystemDarkTheme: TextTrackCueList,
     darkThemeToggler: true,
-    highlight: ['java'],
     /* 导航栏 */
     sidebar: [{
             /*第一组*/
 
-            title: '1 - Ten Principles of Economics',
+            title: '01 Ten Principles of Economics',
             children: [{
                     title: 'Introduction',
-                    link: '/intro/intro'
+                    link: '/chap1/intro'
                 },
                 {
                     title: '10 Principles of Economy',
-                    link: '/intro/10prin'
+                    link: '/chap1/10prin'
                 },
                 {
                     title: 'Concepts & Definitions',
-                    link: '/intro/def1'
+                    link: '/chap1/def1'
                 },
-
-
             ]
-
-
-
         }, /*开始*/
         {
 
-            title: '2 - Thinking Like an Economist',
+            title: '02 Thinking Like an Economist',
             children: [{
                 title: 'Economists',
                 link: '/chap2/economist'
+            }, {
+                title: 'Concepts & Definitions',
+                link: '/chap2/def2'
             }, ]
         }, /*结束*/
         {
 
-            title: '3 - Interpendence and the Gains from Trade',
+            title: '03 Interpendence and the Gains from Trade',
             children: [{
-                title: 'Economists',
-                link: '/chap2/economist'
+                title: 'Concepts & Definitions',
+                link: '/chap3/def3'
             }, ]
         }, /*结束*/
         {
 
-            title: '4 - The Market Forces Supply or Demand',
+            title: '04 The Market Forces Supply or Demand',
             children: [{
-                title: 'Economists',
-                link: '/chap2/economist'
+                title: 'Concepts & Definitions',
+                link: '/chap4/def4'
             }, ]
         }, /*结束*/
         {
 
-            title: '5 - Elasticity and Its Application',
+            title: '05 Elasticity and Its Application',
             children: [{
-                title: 'Economists',
-                link: '/chap2/economist'
+                title: 'Concepts & Definitions',
+                link: '/chap5/def5'
             }, ]
         }, /*结束*/
     ],
