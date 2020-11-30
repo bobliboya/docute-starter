@@ -13,7 +13,7 @@ new Docute({
             link: '/about'
         }
     ],
-    detectSystemDarkTheme: TextTrackCueList,
+    detectSystemDarkTheme: true,
     darkThemeToggler: true,
     /* 导航栏 */
     sidebar: [{
