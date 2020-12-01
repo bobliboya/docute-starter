@@ -68,6 +68,41 @@ new Docute({
                 title: 'Concepts & Definitions',
                 link: '/chap5/def5'
             }, ]
-        }, /*结束*/
+        }, /*结束*/ {
+
+            title: '06 Supply, Demand, and Government Policies',
+            children: [{
+                title: 'Concepts & Definitions',
+                link: '/chap6/def6'
+            }, ]
+        }, /*结束*/ {
+
+            title: '07 Consumers, Producers, and the Efficiency of Markets',
+            children: [{
+                title: 'Concepts & Definitions',
+                link: '/chap7/def7'
+            }, ]
+        }, /*结束*/ {
+
+            title: '08 Application: The Costs of Taxation',
+            children: [{
+                title: 'Concepts & Definitions',
+                link: '/chap8/def8'
+            }, ]
+        }, /*结束*/ {
+
+            title: '09 Application: International Trade',
+            children: [{
+                title: 'Concepts & Definitions',
+                link: '/chap9/def9'
+            }, ]
+        }, /*结束*/ {
+
+            title: '10 Externalities',
+            children: [{
+                title: 'Concepts & Definitions',
+                link: '/chap10/def10'
+            }, ]
+        },
     ],
 })
