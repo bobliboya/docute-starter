@@ -753,7 +753,7 @@ a[data-v-794d5154] {
     position: relative;
     margin: 0;
     z-index: 2;
-    font-family: 'Roboto Mono', monospace;
+    font-family: ui-monospace, 'Roboto Mono', monospace;
     white-space: pre
 }
 
@@ -812,7 +812,7 @@ a[data-v-794d5154] {
 }
 
 .page-content code {
-    font-family: 'Roboto Mono', monospace;
+    font-family: ui-monospace, 'Roboto Mono', monospace;
     font-size: 90%;
     background: var(--inline-code-background);
     border-radius: 4px;
