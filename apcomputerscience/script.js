@@ -24,6 +24,9 @@ new Docute({
             children: [{
                     title: '实例1',
                     link: '/part1/examples1'
+                }, {
+                    title: '斐波那契数列',
+                    link: '/part1/fibonacci'
                 },
 
             ]
