@@ -6,7 +6,7 @@ new Docute({
     sourcePath: './docs/',
     nav: [{
             title: 'Home',
-            link: '//docute-starter'
+            link: '/README'
         },
         {
             title: 'About',
