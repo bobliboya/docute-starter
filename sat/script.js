@@ -13,6 +13,8 @@ new Docute({
             link: '/about'
         }
     ],
+    detectSystemDarkTheme: true,
+    darkThemeToggler: true,
     /* 导航栏 */
     sidebar: [{
         /*第一组*/
