@@ -100,6 +100,18 @@ new Docute({
 
             title: '10 Externalities',
             children: [{
+                title: '10.1 Externalities',
+                link: '/chap10/externalities'
+            }, {
+                title: '10.2 Policies to Fix Externalities',
+                link: '/chap10/policies'
+            }, {
+                title: '10.3 The Coase Theorem',
+                link: '/chap10/coase'
+            }, {
+                title: '10.4 Tax or Regulation',
+                link: '/chap10/taxorregulation'
+            }, {
                 title: 'Concepts & Definitions',
                 link: '/chap10/def10'
             }, ]
