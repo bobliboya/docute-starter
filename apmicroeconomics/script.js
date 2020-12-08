@@ -93,6 +93,12 @@ new Docute({
 
             title: '09 Application: International Trade',
             children: [{
+                title: '9.1 Import and Export',
+                link: '/chap9/importandexport'
+            }, {
+                title: '9.2 Tariff',
+                link: '/chap9/tariff'
+            }, {
                 title: 'Concepts & Definitions',
                 link: '/chap9/def9'
             }, ]
@@ -114,6 +120,16 @@ new Docute({
             }, {
                 title: 'Concepts & Definitions',
                 link: '/chap10/def10'
+            }, ]
+        }, /*结束*/ {
+
+            title: '11 Public Goods and Commom Resources',
+            children: [{
+                title: '11.1 Public Goods',
+                link: '/chap11/publicgoods'
+            }, {
+                title: 'Concepts & Definitions',
+                link: '/chap11/def11'
             }, ]
         },
     ],

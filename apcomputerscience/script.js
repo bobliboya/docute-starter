@@ -27,6 +27,12 @@ new Docute({
                 }, {
                     title: '斐波那契数列',
                     link: '/part1/fibonacci'
+                }, {
+                    title: '应用题',
+                    link: '/part1/applications'
+                }, {
+                    title: 'Scanner的用法',
+                    link: '/part1/input'
                 },
 
             ]
