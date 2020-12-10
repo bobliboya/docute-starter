@@ -79,6 +79,9 @@ new Docute({
 
             title: '07 Consumers, Producers, and the Efficiency of Markets',
             children: [{
+                title: 'Consumer Suplus & Producer Surplus',
+                link: '/chap7/surplus'
+            }, {
                 title: 'Concepts & Definitions',
                 link: '/chap7/def7'
             }, ]
@@ -86,6 +89,9 @@ new Docute({
 
             title: '08 Application: The Costs of Taxation',
             children: [{
+                title: 'Deadwight Loss',
+                link: '/chap8/deadwightloss'
+            }, {
                 title: 'Concepts & Definitions',
                 link: '/chap8/def8'
             }, ]
@@ -127,6 +133,9 @@ new Docute({
             children: [{
                 title: '11.1 Public Goods',
                 link: '/chap11/publicgoods'
+            }, {
+                title: '11.2 Common Resources',
+                link: '/chap11/commonresources'
             }, {
                 title: 'Concepts & Definitions',
                 link: '/chap11/def11'
