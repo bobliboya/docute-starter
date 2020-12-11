@@ -21,11 +21,11 @@ new Docute({
 
             title: '01 Ten Principles of Economics',
             children: [{
-                    title: 'Introduction',
+                    title: '1.1 Introduction',
                     link: '/chap1/intro'
                 },
                 {
-                    title: '10 Principles of Economy',
+                    title: '1.2 10 Principles of Economy',
                     link: '/chap1/10prin'
                 },
                 {
@@ -38,8 +38,14 @@ new Docute({
 
             title: '02 Thinking Like an Economist',
             children: [{
-                title: 'Economists',
+                title: '2.1 Economists',
                 link: '/chap2/economist'
+            }, {
+                title: '2.2 Circular Flow Diagram',
+                link: '/chap2/circularflowdiagram'
+            }, {
+                title: '2.3 Production Possibilities Frontier',
+                link: '/chap2/ppf'
             }, {
                 title: 'Concepts & Definitions',
                 link: '/chap2/def2'

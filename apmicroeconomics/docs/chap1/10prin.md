@@ -1,4 +1,4 @@
-# 10 Principles of Economics
+# 1.2 10 Principles of Economics
 
 1. People face trade-offs
 2. The cost of something is what you give up to get it

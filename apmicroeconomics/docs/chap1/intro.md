@@ -1,4 +1,4 @@
-# Introduction of Microeconomics
+# 1.1 Introduction of Microeconomics
 
 ## What is Economy?
 
