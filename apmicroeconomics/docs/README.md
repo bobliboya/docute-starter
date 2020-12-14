@@ -1,7 +1,5 @@
 # Welcome to AP Microeconomics
 
-
-
 ## About the Course
 
 Study the principles of economics that apply to the behavior of individuals within an economic system. You’ll use graphs, charts, and data to analyze, describe, and explain economic concepts.

@@ -145,7 +145,19 @@ new Docute({
             }, {
                 title: 'Concepts & Definitions',
                 link: '/chap11/def11'
-            }, ]
+            }, ],
         },
-    ],
+        {
+            title: '12 The Design of a Tax System',
+            children: [{
+                title: 'Tax System',
+                link: '/chap12/taxsystem'
+            }, {
+                title: 'Concepts & Definitions',
+                link: '/chap12/def12'
+            }]
+
+
+        },
+    ]
 })
