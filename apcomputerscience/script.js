@@ -20,7 +20,7 @@ new Docute({
     sidebar: [{
             /*第一组*/
 
-            title: '包和类',
+            title: 'Unit 1 Primitive Types',
             children: [{
                     title: '实例1',
                     link: '/part1/examples1'
@@ -36,7 +36,97 @@ new Docute({
                 },
 
             ]
-        }, /*开始*/
+        }, /*开始*/ {
+
+
+            title: 'Unit 2 Using Objects',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 3 Boolean Statements and if Statements',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 4 Iteration',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 5 Writing Classes',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 6 Array',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 7 ArrayList',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 8 2D Array',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 9 Inheritance',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        }, {
+
+
+            title: 'Unit 10 Recursion',
+            children: [{
+                    title: '实例1',
+                    link: '/part1/examples1'
+                },
+
+            ]
+        },
 
     ],
 })
