@@ -34,7 +34,7 @@ new Docute({
                 },
                 {
                     title: 'CFD',
-                    link: '/chap1/cfd'
+                    link: '/chap1/circularflowdiagram'
                 },
             ]
         }, /*开始*/
