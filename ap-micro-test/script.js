@@ -32,6 +32,10 @@ new Docute({
                     title: 'Trade',
                     link: '/chap1/trade'
                 },
+                {
+                    title: 'CFD',
+                    link: '/chap1/cfd'
+                },
             ]
         }, /*开始*/
         {

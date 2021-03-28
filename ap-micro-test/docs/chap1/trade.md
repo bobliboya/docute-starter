@@ -1,65 +1,59 @@
 # Concepts & Definitions
 
-## Scarcity
+## 2 Types of Advantages
 
-The limited nature of society’s resources.
+**Absolute Advantage**<br/>The ability to produce a good by **fewer inputs** than other producers.
 
-## Economics
+ 
 
-The study of how society manages its scarce resources.
+**Comparative Advantage**<br/>The ability to produce a good by **lower opportunity cost** than other producers.
 
-## Efficiency
+ 
 
-The property of society getting the most it can from its scarce resources.
+**Specialization(特殊化)**<br/>The country has a **comparative advantage** on producing one good should specialize on it.<br/>拥有在某产品上相对优势的国家应该专门生产机会成本较低的货物。
 
-## Equality
+|            | **Wheat**  | **Sugar**    |
+| ---------- | ---------- | ------------ |
+| **USA**    | 30 (1W=1S) | 30 (1S=1W)   |
+| **Brazil** | 10 (1W=2S) | 20 (1S=1/2W) |
 
-The property of distributing economic prosperity uniformly among the members of society.
+**Brazil** has the Comparative Advantage on **Sugar**;<br/>while **USA** has the Comparative Advantage on **Wheat**.
 
-## Opportunity cost
+## Import and Export
 
-Whatever must be given up to obtain some item.
+**Import**<br/>Goods produced abroad and sold domestically.
 
-## Rational people
+ 
 
-People who systematically and purposefully do the best they can to achieve their objectives.
+**Export**<br/>Goods produced domestically and sold abroad. *(=Comparative Advantage)*
 
-## Marginal change
+ 
 
-A small incremental adjustment to a plan of action.
+**Domestic Price**<br/>Price inside a country with no trade.
 
-## Incentive
+ 
 
-Something that induces a person to act.
+**World Price**<br/>Price outside a country with trade.
 
-## Market economy
+ 
 
-An economy that allocates resources through the decentralized decisions of many firms and households as they interact in markets for goods and services.
+If **Pw > Pd**, then **Export**; if **Pw < Pd**, then **Import**.
 
-## Property rights
+## Terms of Trade (贸易条件)
 
-The ability of an individual to own and exercise control over scarce resources.
+They agreed upon conditions that would benefit both countries that both countries can benefit from trade if they each have relatively lower opportunity costs. For both sides to gain from trade, the price much lie **between their opportunity cost**.
 
-## Market failure
+ 
 
-A situation in which a market left on its own fails to allocate resources efficiently.
+|           | **Pineapples** | **Radios** |
+| --------- | -------------- | ---------- |
+| **Kenya** | 30 (1P=1/3R)   | 10 (1R=3P) |
+| **India** | 40 (1P=1R)     | 40 (1R=1P) |
 
-## Externality
+ 
 
-The impact of one person’s actions on the well-being of a bystander.
+Trading **1 radio for 2 pineapples** will benefit both.
 
-## Market power
+If Kenya produces radios by themselves, they give up 3 Pineapples for each radio. If they can trade 2 pineapples for each radio they are better off.
 
-The ability of a single economic actor (or small group of actors) to have a substantial influence on market prices.
-
-## Productivity
-
-The quantity of goods and services produced from each unit of labor input.
-
-## Inflation
-
-An increase in the overall level of prices in the economy.
-
-## Business cycle
-
-Fluctuations in economic activity, such as employment and production.
+If India produces pineapples by themselves, they give up I pineapple for one radio. If they can get 2 pineapples for one radio they are better off.

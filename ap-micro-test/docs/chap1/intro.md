@@ -97,15 +97,8 @@ Economics is the science of **scarcity** (=value—we have unlimited wants but l
 
 2. How should these goods and services be produced?
 
-3. Who consumes these goods and services?
+3. Who consumes these goods and services?<br/>→The way these questions are answered determines the economic system.<br/>→**Free Market (Capitalist) Economy**<br/>Decisions made by buyers and sellers.<br/>=buyers and sellers determine resource allocation(分配)
 
-   →The way these questions are answered determines the economic system.
-
-   →**Free Market (Capitalist) Economy**
-
-   Decisions made by buyers and sellers.
-
-   ​    =buyers and sellers determine resource allocation(分配)
 
  
 
