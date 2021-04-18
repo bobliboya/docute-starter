@@ -18,6 +18,9 @@ new Docute({
     highlight: ['java'],
     /* 导航栏 */
     sidebar: [{
+            title: 'Unit 1 Primitive Types',
+            link: '/unit1'
+        }, {
             /*第一组*/
 
             title: 'Unit 1 Primitive Types',
