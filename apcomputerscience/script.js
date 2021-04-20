@@ -21,90 +21,9 @@ new Docute({
             title: 'Unit 1 Primitive Types',
             link: '/unit1'
         }, {
-            /*第一组*/
-
-            title: 'Unit 1 Primitive Types',
-            children: [{
-                    title: '实例1',
-                    link: '/part1/examples1'
-                }, {
-                    title: '斐波那契数列',
-                    link: '/part1/fibonacci'
-                }, {
-                    title: '应用题',
-                    link: '/part1/applications'
-                }, {
-                    title: 'Scanner的用法',
-                    link: '/part1/input'
-                },
-
-            ]
-        }, /*开始*/ {
-
-
             title: 'Unit 2 Using Objects',
-            children: [
-
-            ]
+            link: '/unit2'
         }, {
-
-
-            title: 'Unit 3 Boolean Statements and if Statements',
-            children: [
-
-            ]
-        }, {
-
-
-            title: 'Unit 4 Iteration',
-            children: [
-
-            ]
-        }, {
-
-
-            title: 'Unit 5 Writing Classes',
-            children: [
-
-            ]
-        }, {
-
-
-            title: 'Unit 6 Array',
-            children: [
-
-            ]
-        }, {
-
-
-            title: 'Unit 7 ArrayList',
-            children: [
-
-            ]
-        }, {
-
-
-            title: 'Unit 8 2D Array',
-            children: [
-
-            ]
-        }, {
-
-
-            title: 'Unit 9 Inheritance',
-            children: [
-
-            ]
-        }, {
-
-
-            title: 'Unit 10 Recursion',
-            children: [
-
-            ]
-        }, {
-
-
             title: 'Practice Questions',
             children: [{
                     title: '2013 FRQ Questions',
