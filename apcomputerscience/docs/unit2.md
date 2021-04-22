@@ -205,3 +205,22 @@ public class HelloWorld {
 }
 ```
 
+## `Integer`类和`Double`类
+
+将原始数据包装成引用类型的数据。
+
+```java
+Integer i = new Integer(3);
+System.out.println(i.compareTo(new Integer(3)));//输出0
+System.out.println(i.intValue);//输出3
+System.out.println(i.equals(new Integer(3)));//输出true
+```
+
+`Integer`中也有一些常量可以使用：
+
+| 常量名称            | 表示内容         |
+| ------------------- | ---------------- |
+| `Integer.MIN_VALUE` | 能存储的最小数字 |
+| `Integer.MAX_VALUE` | 能存储的最大数字 |
+
+`Double`的使用方法和`Integer`类似，使用方法同上。
