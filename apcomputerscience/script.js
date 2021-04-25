@@ -24,6 +24,12 @@ new Docute({
             title: 'Unit 2 Using Objects',
             link: '/unit2'
         }, {
+            title: 'Unit 3 Using Objects',
+            link: '/unit3'
+        }, {
+            title: 'Unit 4 Using Objects',
+            link: '/unit4'
+        }, {
             title: 'Practice Questions',
             children: [{
                     title: '2013 FRQ Questions',
